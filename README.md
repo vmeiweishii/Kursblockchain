@@ -101,10 +101,3 @@ npx hardhat test
 cd ~/Kursblockchain
 npm run healthcheck
 ```
-
-## Что можно сделать следующим этапом
-- Авторизация через MetaMask.
-- SQLite/PostgreSQL вместо JSON.
-- Несколько сервисных центров.
-- Ревокация конкретных отчётов.
-- Проверка совпадения текущего JSON и on-chain reportHash через отдельную кнопку.
